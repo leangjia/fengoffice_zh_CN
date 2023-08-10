@@ -98,7 +98,7 @@ return array(
     'cant find account' => '找不到请求的电子邮件帐户',
 
     'unread emails' => '未读邮件',
-    //'view due task' => 'View due task',
+    //'view due task' => '查看到期任务',
     'due_date reminder notification task' => '到期任务提醒： {0}',
 	'due_date task reminder' => '到期任务提醒： {0}',
     'due_date task reminder desc' => '以下任务截止日期为 {1} 仍处于挂起状态： {0}',

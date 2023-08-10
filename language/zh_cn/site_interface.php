@@ -783,7 +783,7 @@ return array(
 	'template parameters description' => '此表单包含填写要生成的任务所需的参数。',
 	'template_task' => '任务模板',
 	'repeat options' => '重复选项',
-	'other properties' => '其它特性',
+	'other properties' => '其它属性',
   'time will be rounded to 15 minutes' => '时间将四舍五入到15分钟'
 ); // array
 

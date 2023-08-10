@@ -11,7 +11,7 @@
 	"CAL_SUBM_SEARCH" => "搜索",
 	"CAL_SUBM_BACK_CALENDAR" => "返回日历",
 	"CAL_SUBM_VIEW_TODAY" => "查看今日事务",
-	"CAL_SUBM_ADD" => "Add Event Today",
+	"CAL_SUBM_ADD" => "添加今日事务",
 	// ########## NAVIGATION MENU ITEMS ##########
 	"CAL_MENU_BACK_CALENDAR" => "返回日历",
 	"CAL_MENU_NEWEVENT" => "新事务",

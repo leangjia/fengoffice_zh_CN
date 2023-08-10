@@ -638,7 +638,7 @@
     'cron event name export_google_calendar' => '导出 Feng Office 事务',
     'cron event desc export_google_calendar' => '如果启用此选项，来自Feng Office的事务将导出到外部日历（如谷歌日历）。',
     'delay between executions' => '执行之间的延迟',
-    'enabled' => 'Enabled',
+    'enabled' => '启用',
     'no cron events to display' => '没有可显示的计划事务',
     'success update cron events' => '计划事务更新成功',
 
@@ -930,7 +930,7 @@
 	
 	'invalid parent member' => '无法将 \'{0}\' 保存在 \'{1}\'下',
   
-    'file extension prevention uploading' => '文件扩展名阻止上传',
+    'file extension prevention uploading' => '允许或禁止上传的文件扩展名',
     'file extension' => '文件扩展名',
     'allow' => '允许',
     'success file extension' => '已成功修改阻止上传。',
