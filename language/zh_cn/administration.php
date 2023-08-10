@@ -449,8 +449,8 @@
   	'email type' => '邮件',
   	'custom properties updated' => '自定义属性已更新',
   
-  	'user config option name amount_objects_to_show' => '要显示的链接对象数',
-  	'user config option desc amount_objects_to_show' => '设置要显示在对象视图上的链接对象数',
+  	'user config option name amount_objects_to_show' => '要显示的关联对象数',
+  	'user config option desc amount_objects_to_show' => '设置要显示在对象视图上的关联对象数',
    	'user config option name show_two_weeks_calendar' => '显示两周日历小部件',
   	'user config option desc show_two_weeks_calendar' => '将日历小部件设置为显示两周',
 	'user config option name attach_docs_content' => '附加文件内容',
@@ -493,8 +493,8 @@
   	//account
   	//General
   	
-  	'user config option name amount_objects_to_show' => '要显示的链接对象数',
-  	'user config option desc amount_objects_to_show' => '设置要在对象视图上显示的链接对象的数目。' ,
+  	'user config option name amount_objects_to_show' => '要显示的关联对象数',
+  	'user config option desc amount_objects_to_show' => '设置要在对象视图上显示的关联对象的数目。' ,
   	'user config option name autodetect_time_zone' => '自动检测时区',
   	'user config option desc autodetect_time_zone' => '启用此选项后，将从浏览器自动检测用户的时区。',
   	'user config option name detect_mime_type_from_extension' => '从扩展中检测mime类型',
@@ -653,8 +653,8 @@
     'email type' => '邮件',
     'custom properties updated' => '自定义属性已更新',
 
-    'user config option name amount_objects_to_show' => '要显示的链接对象数',
-    'user config option desc amount_objects_to_show' => '设置要显示在对象视图上的链接对象数',
+    'user config option name amount_objects_to_show' => '要显示的关联对象数',
+    'user config option desc amount_objects_to_show' => '设置要显示在对象视图上的关联对象数',
     'user config option name show_two_weeks_calendar' => '显示两周日历小部件',
     'user config option desc show_two_weeks_calendar' => '将日历小部件设置为显示两周',
     'user config option name attach_docs_content' => '附加文件内容',
@@ -698,8 +698,8 @@
     //General
 	'user config option name contacts_per_page' => '每页联系人',
   	'user config option desc contacts_per_page' => '列出的联系人数量（避免使用0和负数）。请注意，数字越大，加载联系人所需的时间就越多。',
-    'user config option name amount_objects_to_show' => '要显示的链接对象数',
-    'user config option desc amount_objects_to_show' => '设置要在对象视图上显示的链接对象的数目。' ,
+    'user config option name amount_objects_to_show' => '要显示的关联对象数',
+    'user config option desc amount_objects_to_show' => '设置要在对象视图上显示的关联对象的数目。' ,
     'user config option name autodetect_time_zone' => '自动检测时区',
     'user config option desc autodetect_time_zone' => '启用此选项后，将从浏览器自动检测用户的时区。',
     'user config option name detect_mime_type_from_extension' => '从扩展中检测mime类型',
@@ -845,7 +845,7 @@
     'can_see_others_timeslots'=>'可以查看其他用户的时间段时隙',
     'can_see_expenses_of_others'=>'可以看到其他用户实际支付的费用',
   	'can_update_other_users_invitations' => '可以更新其他用户的活动邀请',
-  	'can_link_objects' => '可以链接对象',
+  	'can_link_objects' => '可以关联对象',
     'can_manage_repetitive_properties_of_tasks' => '可以管理任务的重复属性',
 
     'can_manage_security description' => '如果选中此权限，则用户将能够创建、更新和删除用户和组，以及修改其权限。',
@@ -861,7 +861,7 @@
   'can_see_expenses_of_others description'=>'如果启用，则用户将能够看到他/她未支付的实际费用。',
   'can_see_others_timeslots description'=>'如果启用，则用户将能够看到他/她未输入的时隙。',
   	'can_update_other_users_invitations description' => '如果启用，则用户将能够更改其他用户事件邀请的状态。',
-  	'can_link_objects description' => '如果选中此权限，用户将能够链接和取消链接对象',
+  	'can_link_objects description' => '如果选中此权限，用户将能够链接和取消关联对象',
     'can_manage_repetitive_properties_of_tasks description' => '如果选中此权限，用户将能够修改重复任务的重复属性',
   //HIDDEN 
     'can_task_assignee'=>'Can task asignee',
