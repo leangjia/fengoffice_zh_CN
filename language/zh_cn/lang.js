@@ -62,7 +62,7 @@ addLangs({
     'view slideshow': '查看幻灯片',
     'add tag': '添加标签',
     'enter the desired tag': '输入所需的标记',
-    'new': '新',
+    'new': '新建',
     'create an object': '创建一个对象',
     'document': '电子文档',
     'spreadsheet': '电子表格',

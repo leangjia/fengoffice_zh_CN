@@ -144,7 +144,7 @@
     'spreadsheet' => '电子表格',
     'presentation' => '演示文稿',
 
-    'new' => '新',
+    'new' => '新建',
     'upload' => '上传',
     'hide' => '隐藏',
 	'show' => '显示',
