@@ -494,7 +494,7 @@ addLangs({
     'task name': '任务名称',
     'show': '显示',
     'time': '时间',
-    'quick time':'快速时间,
+    'quick time':'快速时间',
     'total time': '总时间',
     'estimated times': '预计时间',
     'estimated time': '预计时间',
