@@ -665,7 +665,7 @@ addLangs({
 
     'file_revision': '文件修订版本',
     'trash emptied periodically': '垃圾桶中放置超过 {0} 天的对象将被删除。',
-    'remove': 'Remove',
+    'remove': '移除',
     'object type not supported': '模板不支持此对象类型',
     'confirm delete timeslot': '您确定要永久删除此时间段吗？',
     'confirm delete permanently this member': '您确定要删除 {0} 吗？',
