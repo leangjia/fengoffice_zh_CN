@@ -579,7 +579,7 @@ return array(
   'do complete' => '完成',
    
   'mark as started this task' => '标记为已开始',
-  'unmark as started this task' => '未标记为已开始',
+  'unmark as started this task' => '标记为尚未开始',
     
   'task data' => '任务数据',
   'basic data' => '基础数据',
